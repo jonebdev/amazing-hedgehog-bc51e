@@ -12,5 +12,5 @@ sections:
         value: '40000000'
       - label: Wow
         value: 5 of 5
-    theme: dark
+    theme: primary
 ---
