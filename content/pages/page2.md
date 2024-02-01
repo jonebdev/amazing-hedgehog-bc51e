@@ -9,7 +9,7 @@ sections:
       - label: Conversion rate
         value: 100%
       - label: Five-star reviews
-        value: 4M
+        value: '40000000'
       - label: Prefer our product
         value: 5 of 5
     theme: dark
