@@ -10,7 +10,7 @@ sections:
         value: 100%
       - label: Five-star reviews
         value: '40000000'
-      - label: Prefer our product
+      - label: Wow
         value: 5 of 5
     theme: dark
 ---
