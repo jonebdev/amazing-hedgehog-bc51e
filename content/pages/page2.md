@@ -6,7 +6,7 @@ sections:
     heading: Come on!
     body: Look at these amazing numbers!
     stats:
-      - label: Conversion rate
+      - label: Grade
         value: 100%
       - label: Five-star reviews
         value: '40000000'
