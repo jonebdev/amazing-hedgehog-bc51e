@@ -3,7 +3,7 @@ type: page
 title: page2
 sections:
   - type: stats
-    heading: Don't take our word for it
+    heading: Come on!
     body: Look at these amazing numbers!
     stats:
       - label: Conversion rate
